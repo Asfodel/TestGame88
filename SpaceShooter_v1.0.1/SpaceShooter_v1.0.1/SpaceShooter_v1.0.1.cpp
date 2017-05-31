@@ -6,7 +6,7 @@
 
 #define MAX_LOADSTRING 100
 
-#define IMAGE_FOLDER L"C:\\Users\\ivanp_000\\Documents\\Visual Studio 2017\\Projects\\SpaceShooter_v1.0.1\\SpaceShooter_v1.0.1\\Files\\"
+#define IMAGE_FOLDER L"C:\\Users\\marij\\Documents\\Visual Studio 2017\\Projects\\SpaceShooter_v1.0.1\\SpaceShooter_v1.0.1\\Files\\"
 
 // Global Variables:
 HINSTANCE hInst;                                // current instance
